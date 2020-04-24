@@ -1,0 +1,15 @@
+{
+  "name": "aesjs",
+  "version": "1.0.0",
+  "description": "Testing aes-256-gcm for browser support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes4js": "^1.0.0",
+    "express": "^4.17.1"
+  }
+}
